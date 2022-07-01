@@ -6,8 +6,8 @@
         <div class="col-md-6 text-center text-md-left">
           <img :src="require('~/images/aku.png')" height="100px" class="rounded-circle d-lg-none" alt="Aku" />
 
-          <h1>Halo, Namaku Adi</h1>
-          <p class="subheading">Saya adalah seorang Fullstack Web Developer dengan spesialisasi keahlian Frontend Web Developer. Saya juga seorang desainer grafis yang dapat mendesain berbagai macam keperluan desain (Banner, Pamflet, dll.).</p>
+          <h1>Hi, My Name is Adi</h1>
+          <p class="subheading">I am a Fullstack Web Developer with Frontend Web Developer skill specialization based in Ngawi, East Java, Indonesia. I am also a graphic designer that can design any purposes (banner, pamphlet, ID Card, etc.).</p>
 
           <div class="socmed mb-3 mb-xl-0">
             <a href="https://fb.me/cakadi.id" class="p-2 text-dark"><i class="fa-brands fa-facebook fa-fw"></i></a>
@@ -17,7 +17,7 @@
             <a href="https://www.youtube.com/channel/UCpetlZgdD8e8KBUvHEUY6Ig" class="p-2 text-dark"><i class="fa-brands fa-youtube fa-fw"></i></a>
           </div>
 
-          <div class="d-flex align-items-center mt-3 justify-content-center justify-content-md-start">Secara resmi merupakan bagian dari <a class="ml-2" href="https://www.dasakreativa.web.id"><img :src="require('~/images/logo-color.png')" height="30px" alt="Dasa Kreativa Group" /></a></div>
+          <div class="d-flex align-items-center mt-3 justify-content-center justify-content-md-start">Officially the part of <a class="ml-2" href="https://www.dasakreativa.web.id"><img :src="require('~/images/logo-color.png')" height="30px" alt="Dasa Kreativa Group" /></a></div>
         </div>
       </div>
     </div>
