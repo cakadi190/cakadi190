@@ -1,0 +1,45 @@
+.form-custom {
+    label.form-custom-label {
+        border: 1px solid $border-color;
+        padding: 1rem;
+        padding-left: 2.5rem;
+        border-radius: $border-radius;
+        cursor: pointer;
+        width: 100%;
+        display: flex;
+        position: relative;
+        margin-bottom: 1rem;
+
+        &:before {
+            content: '';
+            border: 1px solid $border-color;
+            border-radius: 50%;
+            width: 1rem;
+            height: 1rem;
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            margin-right: 1rem;
+        }
+
+        .label-body {
+            .label-title {
+                font-size: $font-size-base * 1.25;
+            }
+
+            > *:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    &[data-label] {
+        label.form-custom-label {
+            padding-left: 3.25rem;
+        }
+    }
+
+    input.form-custom-input {
+        display: none;
+    }
+}

@@ -1,0 +1,30 @@
+.dropdown {
+    &.static-full {
+        position: static;
+    }
+}
+
+.dropdown-menu {
+    box-shadow: $box-shadow;
+    padding: 0.25rem;
+    border-color: darken($light, 5%);
+
+    .dropdown-item {
+        padding: .4rem 1rem;
+        border-radius: $border-radius;
+        transition: all .2s;
+
+        &:hover {
+            color: $dark;
+            background-color: $light;
+        }
+        &:active {
+            background-color: darken($light, 10%);
+            color: $dark;
+        }
+        &:focus {
+            background-color: $primary;
+            color: $white;
+        }
+    }
+}
