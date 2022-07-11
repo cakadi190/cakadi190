@@ -1,0 +1,72 @@
+{
+    "achievement": {
+        "menu": "Achievement",
+        "title": "Achievements"
+    },
+    
+    "certification": {
+        "cert": "Certifications",
+        "competition": "Competition",
+        "event": "Events",
+
+        "title": "Certification and Achievement",
+        "desc": "My latest certificate and achievement collection."
+    },
+    "changelang": "Change Language",
+    "competition": "Competition",
+    "copyright": "Copyright",
+    
+    "education": {
+        "menu": "Education",
+        "title": "Educations",
+        "subdesc": "Currently I am is",
+        "desc": "My education history.",
+
+        "current": {
+            "freshgrad": "Fresh Graduate",
+            "gapyear": "Gap Year",
+            "job": "Working",
+            "study": "Studied",
+            "waitstudy": "Wait for study"
+        },
+
+        "next": "Next {date}"
+    },
+    "event": "Event",
+    
+    "home": {
+        "desc": "Hi, my name is Adi from Ngawi, East Java, Indonesia. I am is fullstack web developer with frontend web developer specialist. I also a designer that can design many purposes (banner, pamphlet, ID Card, etc.).",
+        "subhead": "Fullstack Web Developer",
+        "partof": "Officially the part of",
+        "cta": "See My Resume"
+    },
+
+    "occupation": {
+        "menu": "Occupation",
+        "title": "Occupations",
+        "now": "Now",
+        "desc": "My working experience in entire companies."
+    },
+
+    "portofolio": {
+        "category": {
+            "graphic": "Graphic Design",
+            "web": "Website Development"
+        },
+        "btn": {
+            "owner": "Owner's Web",
+            "project": "Owner's Project Web"
+        },
+        "desc": "My latest portofolio collection",
+        "menu": "Portofolio",
+        "status": {
+            "done": "Done",
+            "development": "Still Working",
+            "proposal": "Proposal Submission",
+            "waiting": "Waiting",
+            "revision": "Waiting for Revision",
+            "cancel": "Canceled"
+        },
+        "title": "Portofolios"
+    }
+}

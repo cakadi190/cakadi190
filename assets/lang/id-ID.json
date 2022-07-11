@@ -1,0 +1,72 @@
+{
+    "achievement": {
+        "menu": "Penghargaan",
+        "title": "Penghargaan"
+    },
+    
+    "certification": {
+        "cert": "Sertifikasi",
+        "competition": "Perlombaan",
+        "event": "Kegiatan",
+
+        "title": "Sertifikasi dan Penghargaam",
+        "desc": "Koleksi sertifikasi dan penghargaanku"
+    },
+    "changelang": "Ganti Bahasa",
+    "competition": "Kompetisi",
+    "copyright": "Hak cipta",
+    
+    "education": {
+        "menu": "Pendidikan",
+        "title": "Pendidikan",
+        "subdesc": "Sekarang saya sedang",
+        "desc": "Riwayat pendidikanku.",
+
+        "current": {
+            "freshgrad": "Baru Saja Lulus",
+            "gapyear": "Berhenti Melanjutkan Pendidikan",
+            "job": "Bekerja",
+            "study": "Menempuh Pendidikan",
+            "waitstudy": "Menunggu Tanggal Masuk"
+        },
+
+        "next": "{date} mendatang"
+    },
+    "event": "Kegiatan",
+    
+    "home": {
+        "desc": "Halo, namaku Adi! Saya berasal dari Ngawi, Jawa Timur. Saya adalah seorang Fullstack Web Developer dengan spesialisasi keahlian Frontend Web Developer. Saya juga bisa membuat desain dengan berbagai keperluan (Banner, ID Card, Pamflet, dsb.).",
+        "subhead": "Fullstack Web Developer",
+        "partof": "Secara resmi bagian dari",
+        "cta": "Lihat Riwayat Hidupku"
+    },
+
+    "occupation": {
+        "menu": "Pekerjaan",
+        "title": "Pekerjaan",
+        "now": "Sekarang",
+        "desc": "Pengalaman bekerja saya di beberapa perusahaan."
+    },
+
+    "portofolio": {
+        "category": {
+            "graphic": "Desain Grafis",
+            "web": "Pembuatan Website"
+        },
+        "btn": {
+            "owner": "Pemilik Situs",
+            "project": "Web Proyeknya"
+        },
+        "desc": "Koleksi portofolio terbaruku.",
+        "menu": "Portofolio",
+        "status": {
+            "done": "Selesai",
+            "development": "Masih Dikerjakan",
+            "proposal": "Masih Mengirim Proposal",
+            "waiting": "Menunggu",
+            "revision": "Menunggu Perbaikan",
+            "cancel": "Dibatalkan"
+        },
+        "title": "Portofolio"
+    }
+}

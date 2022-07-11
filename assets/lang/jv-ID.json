@@ -1,0 +1,72 @@
+{
+    "achievement": {
+        "menu": "Penghargaan",
+        "title": "Penghargaan"
+    },
+    
+    "certification": {
+        "cert": "Sertifikasi",
+        "competition": "Perlombaan",
+        "event": "Kegiyatan",
+
+        "title": "Sertifikasi lan Penghargaam",
+        "desc": "Koleksi sertifikasi lan penghargaanku"
+    },
+    "changelang": "Genti Boso",
+    "competition": "Kompetisi",
+    "copyright": "Hak cipto",
+    
+    "education": {
+        "menu": "Pendhidikan",
+        "title": "Pendhidikan",
+        "subdesc": "Saiki aku lagi",
+        "desc": "Riwayat pendhidikanku.",
+
+        "current": {
+            "freshgrad": "Lagek Lulus",
+            "gapyear": "Nyetop Sinau Sementara",
+            "job": "Kerjo",
+            "study": "Nempuh Pendhidikan",
+            "waitstudy": "Ngenteni Wayah Pendhidikan"
+        },
+
+        "next": "Sek Ngko {date}"
+    },
+    "event": "Kegiyatan",
+    
+    "home": {
+        "desc": "Halo rek! Jenengku Adi soko Ngawi, Jawa Timur. Aku iki fullstack web developer sing nduweni spesialisasi keahlian frontend web developer. Aku yo iso nggawe desain kanggo keperluan opo wae (banner, ID Card, pamflet, lsp.).",
+        "subhead": "Fullstack Web Developer",
+        "partof": "Secara resmi bagian'e",
+        "cta": "Delok Riwayat Uripku"
+    },
+
+    "occupation": {
+        "menu": "Pagaweyan",
+        "title": "Pagaweyan",
+        "now": "Saiki",
+        "desc": "Pengalaman pagaweyanku nang pirang-pirang perusahaan."
+    },
+
+    "portofolio": {
+        "category": {
+            "graphic": "Nggambar",
+            "web": "Nggawe Web"
+        },
+        "btn": {
+            "owner": "Sing nduwe web",
+            "project": "Web Proyek'e"
+        },
+        "desc": "Koleksi portofolio anyarku",
+        "menu": "Portofolio",
+        "status": {
+            "done": "Rampung",
+            "development": "Sek digarap",
+            "proposal": "Sek ngirim proposal",
+            "waiting": "Nunggu",
+            "revision": "Ngenteni revisian",
+            "cancel": "Dibatalke"
+        },
+        "title": "Portofolio"
+    }
+}

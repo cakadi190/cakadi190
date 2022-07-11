@@ -24,9 +24,9 @@ export default {
     link: [
       { rel: 'icon', type: 'image/png', href: '/aku.png' },
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Poppins&display=swap' },
-
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter&family=Outfit&display=swap' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css' },
+      { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css' },
     ]
   },
 
@@ -44,6 +44,56 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
   ],
+  moment: {
+    defaultLocale: 'en-gb',
+    locales: ['en-gb', 'id', 'jv']
+  },
+
+  i18n: {
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_translation',
+      redirectOn: 'root',  // recommended
+    },
+    locales: [
+      {
+        code: 'en',
+        flag: 'us',
+        name: 'English',
+        file: 'en-US.json'
+      },
+      {
+        code: 'id',
+        flag: 'id',
+        name: 'Bahasa Indonesia',
+        file: 'id-ID.json'
+      },
+      {
+        code: 'jv',
+        flag: 'id',
+        name: 'Boso Jowo',
+        file: 'jv-ID.json'
+      }
+    ],
+    lazy: true,
+    langDir: 'assets/lang/',
+    defaultLocale: 'en',
+    parsePages: false,   // Disable babel parsing
+    pages: {
+      occupation: {
+        id: '/pekerjaan',
+        jv: '/pagaweyan'
+      },
+      certification: {
+        id: '/sertifikasi',
+        jv: '/sertifikasi',
+      },
+      education: {
+        id: '/pendidikan',
+        jv: '/pendhidhikan',
+      },
+    }
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -51,10 +101,15 @@ export default {
     'bootstrap-vue/nuxt',
     'nuxt-compress',
     '@nuxt/image',
+    '@nuxtjs/i18n',
+    '@nuxtjs/moment'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build 
   build: {
+    babel: {
+      compact: true
+    },
     loaders: {
       sass: {
         implementation: require('sass'),
@@ -68,5 +123,11 @@ export default {
       alias['@'] = path.join(__dirname, '/')
       alias['~'] = path.join(__dirname, 'assets')
     }
+  },
+
+  server: {
+    port: 8000, // default: 3000
+    host: '192.168.17.114', // default: localhost,
+    timing: false
   }
 }
