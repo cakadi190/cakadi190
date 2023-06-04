@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dasa Kreativa Studio & PT. Mynvitee Wedding Indonesia<br>👯 I’m looking to collaborate on Developer and Design<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning UI/UX Design<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ I'm a nocturnal person hahaha
+🔭 I’m currently working on [PT. Mynvitee Wedding Indonesia](https://www.instagram.com/mynvitee.id)<br>👯 I'm a part-time FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning ReactJS and NextJS<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
 
 
 ## 🌐 Socials:
