@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [PT. Mynvitee Wedding Indonesia](https://www.instagram.com/mynvitee.id)<br>👯 I'm a part-time FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning ReactJS and NextJS<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
+🔭 I’m currently working on [PT. Buat Usaha Indonesia](https://www.instagram.com/buatusaha.id)<br>👯 I'm a part-time FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning ReactJS and NextJS<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
 
 
 ## 🌐 Socials:
