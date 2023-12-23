@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi guys, my name is Amir Zuhdi Wibowo, you can call me Amir or Adi. I'm a fullstack web developer. Here is my current details.<br>
 
-🔭 I’m currently working as Chief Technology Officer on [PT. Buat Usaha Digital Indonesia](https://www.instagram.com/buatusaha.id)<br>👯 I'm a FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning ReactJS and NextJS<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
+🔭 I’m currently working as Chief Technology Officer on [PT. Buat Usaha Digital Indonesia](https://www.instagram.com/buatusaha.id)<br>👯 I'm a FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning Flutter and or Kotlin<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
 
 
 ## 🌐 Socials:
