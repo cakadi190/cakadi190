@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi guys, my name is Amir Zuhdi Wibowo, you can call me Amir or Adi. I'm a fullstack web developer. Here is my current details.<br>
 
-🔭 I’m currently working as Business Owner on [PT Kodingin Digital Nusantara](https://www.kodinus.web.id/)<br>📕 Currently, I studying at [Associate Degree in Informatics Technology from Madiun State Polytechnic](https://pnm.ac.id)<br>👯 I'm a FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning Flutter and or Kotlin<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
+🔭 I’m currently working as Business Owner on [PT Kodingin Digital Nusantara](https://www.kodinus.web.id/)<br>📕 Currently, I studying at [Associate Degree in Informatics Technology from Madiun State Polytechnic](https://ti.pnm.ac.id)<br>👯 I'm a FullStack Web Developer<br>🤝 I’m looking for help with Developer and Design<br>🌱 I’m currently learning Flutter and or Kotlin<br>💬 Ask me about Web Developer and Graphic Design<br>⚡ ThinkPad and PocoPhone user's
 
 
 ## 🌐 Socials:
